@@ -1,94 +1,103 @@
-h1{
+h1 {
     font-size: xx-large;
-    color:red;
+    color: red;
 
 }
-u{
+
+u {
     font-size: xx-large;
     color: brown;
 }
-mark{
+
+mark {
     color: rgb(255, 140, 0);
 }
 
 
-p{
+p {
     height: 450px;
     width: 470px;
     background: yellow;
     font-size: 27px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.c{
+
+.c {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/civ.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/civ.jpg");
 
-background-size: 430px 430px;
-}
-.v{
-    height: 430px;
-    width: 430px;
-    background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egy.jpg");
-
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
 
-.a{
+.v {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt2.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egy.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
-.q{
+
+.a {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt1.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt2.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
-.w{
+
+.q {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt3.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt1.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
-.e{
+
+.w {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt4.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt3.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
-.r{
+
+.e {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt5.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt4.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
 }
-.t{
+
+.r {
     height: 430px;
     width: 430px;
     background: yellow;
-border: blue 20px solid;
-background-image: url("assets/image/egypt6.jpg");
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt5.jpg");
 
-background-size: 430px 430px;
+    background-size: 430px 430px;
+}
+
+.t {
+    height: 430px;
+    width: 430px;
+    background: yellow;
+    border: blue 20px solid;
+    background-image: url("assets/image/egypt6.jpg");
+
+    background-size: 430px 430px;
 }
