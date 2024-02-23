@@ -1,17 +1,48 @@
+body{
+    background: rgb(0, 155, 49);
+}
+a:hover{
+    color: brown;
+    font-size: 40px;
+}
+#mainnavcontainer{
+    background-color: aqua;
+    text-align: center;
+    color: rgb(22, 14, 3);
+    padding: 1px;
+    border-radius: 25%;
+}
+#mainnavbarlistwrappar{
+    list-style-type: none;
+    padding: 0%;
+
+}
+.mainNavBarList {
+    display: inline-table;
+    margin: 5px;
+    background-color: rgb(230, 239, 239);
+    padding: 10px;
+    width: 15%;
+    border-radius: 15px;
+}
 h1 {
     font-size: xx-large;
-    color: red;
+    color: rgb(215, 234, 160);
 
 }
 
 u {
     font-size: xx-large;
-    color: brown;
+    color: rgb(242, 221, 179);
 }
 
 mark {
     color: rgb(255, 140, 0);
 }
+
+
+
+
 
 
 p {
@@ -100,4 +131,8 @@ p {
     background-image: url("assets/image/egypt6.jpg");
 
     background-size: 430px 430px;
+}
+#footer{
+    background-color: bisque;
+    font-size: 20px;
 }
